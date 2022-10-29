@@ -1,0 +1,732 @@
+/*barra horizontal*/
+.navbar-expand-lg.bg-dark.fixed-top {
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(128,128,128,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(128,128,128,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(128,128,128,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#808080",GradientType=1);
+    height: 2.2cm;
+ }
+  
+  /*barra vertical*/
+  .navbar-expand-lg.bg-grind.position-absolute {
+     right: 32.7cm;
+     margin-top: 2.010cm;
+     height: 16.8cm;
+     background: rgb(128,128,128);
+     background: -moz-linear-gradient(5deg, rgba(128,128,128,1) 0%, rgba(0,0,0,1) 80%);
+     background: -webkit-linear-gradient(5deg, rgba(128,128,128,1) 0%, rgba(0,0,0,1) 80%);
+     background: linear-gradient(5deg, rgba(128,128,128,1) 0%, rgba(0,0,0,1) 80%);
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#808080",endColorstr="#000000",GradientType=1);
+     line-height: 1.5cm;
+     width: 3.1cm;
+     position: fixed;top: 0;
+     margin-left: 10rem;
+     position: relative; 
+     left: -13%;
+     
+  }
+ 
+ 
+ /*sobre mi*/
+  section.about {
+   background-color: black;
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    margin-top: -20rem;
+    height: 22cm;
+     }
+ 
+     section.about {
+       margin-top: 55rem;
+       margin-right: 30cm;
+        }
+ 
+  /*sobre mi*/
+ section.about {
+    margin-top: -20rem;
+    margin-right: 15rem;
+ }
+
+ section.about.datos {
+    margin-right: 10rem;
+ }
+ 
+ /*experiencia*/
+ section.Experiencia {
+   background-color: rgb(28, 28, 28);
+     background-size: 100%;
+     width: 100%;
+     max-width: 100%;
+     background-repeat: no-repeat;
+     min-height: 87vh;
+ }
+ 
+ /*educacion*/
+ section.Educación {
+   background-color: black;
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    height: 35px;
+ }
+ 
+
+ 
+ /*proyectos*/
+ section.Proyectos {
+    background-color: rgb(28, 28, 28);
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    min-height: 87vh;
+     }
+ 
+ section h1 {
+     color: rgb(226, 226, 226);
+     margin-left: 20rem;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: bold;                                          
+      }
+ 
+ section h5 {
+     color: rgb(255, 255, 255);
+     margin-left: 20rem;
+ }
+ 
+ section h2 {
+    font-weight: bold;
+     color: rgba(0, 3, 194, 0.877);
+     margin-left: 1rem;
+     margin-top: 7rem !important;
+     
+ }
+ 
+ section h3 {
+    font-weight: bold;
+    color:rgba(0, 3, 194, 0.877);
+    margin-left: 54rem;
+    margin-bottom: 30cm;
+ }
+ 
+ section p { 
+     color: rgb(255, 255, 255);
+     margin-left: 7rem;
+     margin-top: 15cm;
+ }
+ 
+ section h6 {
+    color: rgb(255, 255, 255);
+    margin-left: 45rem;
+ }
+ 
+ section.datos h2 { 
+ margin-top: 5rem;
+ margin-right: 15rem;
+ }
+ 
+ /*foto perfil*/
+ .rounded.w-75 {
+     position: absolute;
+     z-index: 1;
+     margin-top: -5rem;
+     width: 25rem;
+     height: auto;
+     width: 13rem !important;
+ }
+ 
+ /*iconos redes*/
+ .list-group { 
+ --bs-list-group-bg: transparent;
+ color: rgb(255, 255, 255);
+  }
+ 
+  i.fa-brands.fa-instagram.fa-2xl:hover {
+     color: rgb(0, 33, 223);
+  }
+  
+  i.fa-brands.fa-linkedin.fa-2xl:hover {
+     color: rgb(0, 33, 223);
+  }
+ 
+  i.fa-brands.fa-square-github.fa-2xl:hover {
+     color: rgb(0, 33, 223);
+  }
+ 
+  i.fa-solid.fa-user-lock.fa-2xl:hover {
+     color: rgb(0, 33, 223);
+  }
+ 
+ 
+  i.fa-brands.fa-instagram.fa-2xl {
+    color:rgb(255, 255, 255);
+  }
+  
+  i.fa-brands.fa-linkedin.fa-2xl {
+     color: rgb(255, 255, 255);
+  }
+ 
+  i.fa-brands.fa-square-github.fa-2xl {
+     color: rgb(255, 255, 255);
+  }
+ 
+  i.fa-solid.fa-user-lock.fa-2xl {
+     color: rgb(255, 255, 255);
+  }
+ 
+  /*logos trabajos*/
+  .w-75 {
+    position: absolute;
+     z-index: 1;
+     margin-top: 8rem;
+     margin-left: 5rem !important;
+     width: 8rem;
+     height: auto;
+     width: 8rem !important;
+  }
+ 
+  section.experiencia h2 {
+    margin-left: 30rem;
+    margin-top: 5rem;
+  }
+ 
+  section.col-3 h6 {
+    margin-top: 5rem;
+    margin-right: 20rem;
+     }
+ 
+ section.skills h2 {
+    margin-left: 15rem;
+ }
+ 
+ section.skills h4 {
+    color: aliceblue;
+ }
+ 
+ section.progress {
+    width: 50vh;
+ }
+ 
+ .logo1 {
+    width: 15rem;
+    height: 15rem;
+    margin-top: 4rem;
+    margin-left: 10rem;
+ }
+ 
+ .photom {
+    width: 15rem;
+    height: 15rem;
+    margin-top: -17rem;
+    margin-left: 30rem;
+ }
+ 
+ .banners {
+    width: 15rem;
+    height: 15rem;
+    margin-top: -20rem;
+    margin-left: 50rem;
+ }
+ 
+ .progress-bar {
+    margin-right: 10cm;
+ }
+ 
+ .section.nav-item:hover {
+  color: blue;
+ }
+ 
+ .section.about p { 
+    color:rgb(255, 255, 255);
+    margin-top: -10cm;
+ }
+ 
+ .grido {
+    position: absolute;
+    z-index: 1;
+    margin-top: 8rem;
+    margin-left: 5rem !important;
+    width: 8rem;
+    height: auto;
+    width: 8rem !important;
+ }
+ 
+ .d-block.w-100 { 
+    margin-bottom: 20rem;
+ }
+ 
+ .sobremi {
+    margin-bottom: 20rem;
+ }
+ 
+ .oficina {
+    position: absolute;
+    z-index: 1;
+    margin-top: -52rem;
+    margin-left: 6rem !important;
+    width: 8rem;
+    height: auto;
+    width: 8rem !important;
+ }
+ 
+ .arg {
+    position: absolute;
+    z-index: 1;
+    margin-top: 24rem;
+    margin-left: 5rem !important;
+    width: 6rem;
+    height: auto;
+    width: 6rem !important;
+ }
+ 
+.Banner {
+   background-image: url(/assets/img/banner.png);
+}
+ 
+/*barra progreso*/
+.progress{
+   background: none;
+   margin: 0 auto;
+   box-shadow: none;
+   width: 150px;
+   height: 150px;
+   line-height: 150px;
+   position: relative;
+}
+.progress:after{
+   content: "";
+   border-radius: 50%;
+   border: 15px solid #f2f5f5;
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+}
+.progress > span{
+   position: absolute;
+   top: 0;
+   z-index: 1;
+   width: 50%;
+   height: 100%;
+   overflow: hidden;
+}
+.progress .progress-left{
+   left: 0;
+}
+.progress .progress-bar{
+   border-width: 15px;
+   border-style: solid;
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   background: none;
+   top: 0;
+}
+.progress .progress-left .progress-bar{
+   left: 100%;
+   border-top-right-radius: 80px;
+   border-bottom-right-radius: 80px;
+   border-left: 0;
+   -webkit-transform-origin: center left;
+   transform-origin: center left;
+}
+.progress .progress-right{
+   right: 0;
+}
+.progress .progress-right .progress-bar{
+   left: -100%;
+   -webkit-transform-origin: center right;
+   transform-origin: center right;
+   border-top-left-radius: 80px;
+   border-bottom-left-radius: 80px;
+   border-right: 0;
+   animation: loading-1 1.8s linear forwards;
+}
+.progress .progress-value{
+   font-size: 24px;
+   color: rgb(250, 245, 245);
+   text-align: center;
+   width: 100%;
+   height: 100%;
+   position: absolute;
+}
+
+@keyframes loading-1{
+   0%{
+       -webkit-transform: rotate(0deg);
+       transform: rotate(0deg);
+   }
+   100%{
+       -webkit-transform: rotate(180deg);
+       transform: rotate(180deg);
+   }
+}
+@keyframes loading-2{
+   0%{
+       -webkit-transform: rotate(0deg);
+       transform: rotate(0deg);
+   }
+   100%{
+       -webkit-transform: rotate(45deg);
+       transform: rotate(47deg);
+   }
+}
+@keyframes loading-3{
+   0%{
+       -webkit-transform: rotate(0deg);
+       transform: rotate(0deg);
+   }
+   100%{
+       -webkit-transform: rotate(40deg);
+       transform: rotate(40deg);
+   }
+}
+@keyframes loading-4{
+   0%{
+       -webkit-transform: rotate(0deg);
+       transform: rotate(0deg);
+   }
+   100%{
+       -webkit-transform: rotate(20deg);
+       transform: rotate(20deg);
+   }
+}
+@keyframes loading-5{
+   0%{
+       -webkit-transform: rotate(0deg);
+       transform: rotate(0deg);
+   }
+   100%{
+       -webkit-transform: rotate(126deg);
+       transform: rotate(126deg);
+   }
+}
+
+.progress.blue .progress-bar{
+   border-color: #26abfd;
+}
+.progress.blue .progress-left .progress-bar{
+   animation: loading-2 1.5s linear forwards 1.8s;
+}
+.progress.orange .progress-bar{
+   border-color: #fd6e08;
+}
+.progress.blue .progress-left .progress-bar{
+   animation: loading-2 1.5s linear forwards 1.8s;
+}
+.progress.yellow .progress-bar{
+   border-color: #fdc426;
+}
+.progress.yellow .progress-left .progress-bar{
+   animation: loading-3 1s linear forwards 1.8s;
+}
+.progress.pink .progress-bar{
+   border-color: #f83754;
+}
+.progress.pink .progress-left .progress-bar{
+   animation: loading-4 0.4s linear forwards 1.8s;
+}
+.progress.green .progress-bar{
+   border-color: #00e946;
+}
+.progress.pink .progress-left .progress-bar{
+   animation: loading-4 0.4s linear forwards 1.8s;
+}
+
+section.about h3 {
+   margin-left: 15cm;
+   margin-top: 5cm;
+}
+
+section.about h6 {
+   margin-left: 10cm;
+   margin-top: -28.5cm;
+}
+
+/* SECCION CURRICULUM */
+.curriculum{
+   background-color: rgb(28, 28, 28);
+   color: #fff;
+   padding: 50px 20px;
+}
+.curriculum .contenido-seccion{
+   max-width: 1100px;
+   margin: auto;
+
+}
+.curriculum h2{
+   font-size: 34px;
+   font-family: 'Righteous';
+   text-align: center;
+   padding: 20px 0;
+   margin-right: 43rem;
+}
+.curriculum .fila{
+   display: flex;
+   justify-content: space-between;
+}
+.curriculum .fila .col{
+   width: 49%;
+   padding: 0 20px;
+}
+.curriculum .fila .col h3{
+   font-size: 34px;
+   font-family: 'Righteous';
+   margin-bottom: 25px;
+   margin-right: 20rem;
+}
+.curriculum .fila .izquierda{
+   border-right: 2px solid rgb(28, 28, 28);
+}
+.curriculum .fila .derecha{
+   border-left: 2px solid rgb(28, 28, 28);
+}
+.curriculum .fila .item{
+   padding: 25px;
+   margin-bottom: 30px;
+   background-color: rgb(28, 28, 28);
+   position: relative;
+}
+.curriculum .fila .item h4{
+   font-size: 20px;
+   margin-bottom: 10px;
+}
+.curriculum .fila .item .casa{
+   color: #0003a7;
+   font-size: 22px;
+   font-weight: bold;
+   display: block;
+   margin-left: 5rem;
+}
+.curriculum .fila .item .fecha{
+   display: block;
+   color: #0003a7;
+   margin-bottom: 10px;
+   margin-left: 5rem;
+}
+.curriculum .fila .item p{
+   line-height: 24px;
+}
+.curriculum .fila .izq{
+   border-right: 2px solid #0003a7;
+   margin-right: 20px;
+}
+.curriculum .fila .der{
+   border-left: 2px solid #0003a7;
+   margin-left: 20px;
+}
+.curriculum .fila .item .conectori{
+   height: 2px;
+   background-color: #0003a7;
+   width: 47px;
+   position: absolute;
+   top: 50%;
+   right: -47px;
+   z-index: 5;
+}
+.curriculum .fila .item .conectori .circuloi{
+   display: block;
+   height: 10px;
+   width: 10px;
+   border-radius: 50%;
+   background-color: #0003a7;
+   float: right;
+   position: relative;
+   bottom: 4px;
+}
+.curriculum .fila .item .conectord{
+   height: 2px;
+   background-color: #0003a7;
+   width: 47px;
+   position: absolute;
+   top: 50%;
+   left: -47px;
+   z-index: 5;
+}
+.curriculum .fila .item .conectord .circulod{
+   display: block;
+   height: 10px;
+   width: 10px;
+   border-radius: 50%;
+   background-color: #0003a7;
+   float: left;
+   position: relative;
+   bottom: 4px;
+}
+
+.curriculum.fila.item-abajo {
+   margin-right: 30rem;
+}
+
+.casa1 {
+   font-weight:bolder;
+   font-size: larger;
+   position: absolute;
+    z-index: 1;
+    margin-top: -57rem;
+    margin-right: 6rem;
+    margin-left: 6rem;
+    color: #0003a7;
+ }
+
+ .item-abajo h4 {
+   position: absolute;
+   font-size: larger;
+   z-index: 1;
+   margin-top: -59rem;
+   margin-right: 15rem;
+ }
+
+.fecha1 {
+   font-size:medium;
+   position: absolute;
+   margin-top: -55rem;
+   margin-right: 6rem;
+    margin-left: 6rem;
+   color: #0003a7;
+}
+
+.item-abajo2 h4 {
+   font-size:larger;
+   position: absolute;
+   z-index: 1;
+   margin-top: -41rem;
+}
+
+.casa3 {
+   font-size: larger;
+   font-weight:bolder;
+   color: #0003a7;
+   position: absolute;
+    z-index: 1;
+    margin-left: 6rem;
+    margin-top: -38rem;
+}
+
+.fecha3 {
+   position: absolute;
+   margin-top: -36rem;
+   margin-left: 2rem;
+   margin-left: 6rem;
+   color: #0003a7;
+}
+
+.argprogg {
+   position: absolute;
+    z-index: 1;
+    margin-top: -33rem;
+    margin-left: 6rem !important;
+    width: 8rem;
+    height: auto;
+    width: 8rem !important;
+}
+
+.districar {
+   position: absolute;
+    z-index: 1;
+    margin-top: -84rem;
+    margin-left: 48rem !important;
+    width: 8rem;
+    height: auto;
+    width: 8rem !important;
+}
+
+.item-der2 h4 {
+   font-size:larger;
+   position: absolute;
+   z-index: 1;
+   margin-top: -91rem;
+   margin-left: 44rem !important;
+}
+
+.casa4 {
+   font-size: larger;
+   font-weight:bolder;
+   color: #0003a7;
+   position: absolute;
+    z-index: 1;
+    margin-left: 48rem;
+    margin-top: -89rem;
+}
+
+.casa5 {
+   color: #0003a7;
+   position: absolute;
+    z-index: 1;
+    margin-left: 48rem;
+    margin-top: -87rem;
+}
+
+ /*skills*/
+ section.Skills {
+   margin-top: -40rem;
+   background-color: rgb(0, 0, 0);
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    min-height: 87vh;
+ }
+
+ .Skills h2 { 
+   color:#0003a7;
+   margin-left: 32rem;
+ }
+
+.Skills h3 {
+   color: #0003a7;
+   position: absolute;
+   margin-top: 20rem;
+   margin-left: 6rem;
+}
+
+.Skills h4 {
+   color: #0003a7;
+   position: absolute;
+   margin-left: 24.5rem;
+   margin-top: 20rem;
+   font-weight: bolder;
+   font-size: 28px;
+}
+
+.Skills h5 {
+   color: #0003a7;
+   position: absolute;
+   margin-left: 59rem;
+   margin-top: 20rem;
+   font-weight: bolder;
+   font-size: 28px;
+}
+
+.Skills h6 {
+   color: #0003a7;
+   position: absolute;
+   margin-left: 40rem;
+   margin-top: 20rem;
+   font-weight: bolder;
+   font-size: 28px;
+}
+
+footer {
+   align-self: flex-end;
+   background-color: #000000;
+   line-height: 3;
+   text-align: center;
+   width: 100%;
+   color: #f2f5f5;
+}
+
+ section.footer {
+   margin: 0;
+   padding: 0;
+   display: flex;
+   min-height: 100vh;
+   flex-wrap: wrap;
+}

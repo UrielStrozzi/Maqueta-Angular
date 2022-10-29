@@ -1,0 +1,24 @@
+/*barra horizontal*/
+.navbar-expand-lg.bg-dark.fixed-top {
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(128,128,128,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(128,128,128,1) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(128,128,128,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#808080",GradientType=1);
+ }
+  
+  /*barra vertical*/
+  .navbar-expand-lg.bg-grind.fixed-top {
+     right: 32.7cm;
+     margin-top: 2.010cm;
+     height: 35cm;
+     background: rgb(128,128,128);
+     background: -moz-linear-gradient(5deg, rgba(128,128,128,1) 0%, rgba(0,0,0,1) 80%);
+     background: -webkit-linear-gradient(5deg, rgba(128,128,128,1) 0%, rgba(0,0,0,1) 80%);
+     background: linear-gradient(5deg, rgba(128,128,128,1) 0%, rgba(0,0,0,1) 80%);
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#808080",endColorstr="#000000",GradientType=1);
+     line-height: 1.5cm;
+  }
+ 
+
+ 

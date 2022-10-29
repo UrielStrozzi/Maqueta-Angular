@@ -1,0 +1,10 @@
+/*educacion*/
+section.Educación {
+    background-image: url(/MaquetaAngular/src/assets/img/banner4.png);
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    height: 35px;
+ }

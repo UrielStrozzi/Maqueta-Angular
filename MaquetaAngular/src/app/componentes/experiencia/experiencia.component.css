@@ -1,0 +1,9 @@
+/*experiencia*/
+section.Experiencia {
+    background-color: black;
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    min-height: 87vh;
+}

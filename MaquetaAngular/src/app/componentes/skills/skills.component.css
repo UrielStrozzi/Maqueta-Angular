@@ -1,0 +1,10 @@
+/*skills*/
+section.Skills {
+    background-image: url(/MaquetaAngular/src/assets/img/banner4.png);
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    min-height: 87vh;
+ }
+ 

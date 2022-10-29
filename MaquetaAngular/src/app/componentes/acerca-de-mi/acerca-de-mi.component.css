@@ -1,0 +1,30 @@
+/*sobre mi*/
+section.about {
+    background-color: black;
+    background-size: 100%;
+    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    min-height: 87vh;
+     }
+ 
+     section.about {
+       margin-top: 55rem;
+       margin-right: 30cm;
+        }
+ 
+  /*sobre mi*/
+ section.about {
+    margin-top: 47.4rem;
+    margin-right: 40cm;
+ }
+ 
+ /*foto perfil*/
+.rounded.w-75 {
+   position: absolute;
+   z-index: 1;
+   margin-top: -5rem;
+   width: 25rem;
+   height: auto;
+   width: 13rem !important;
+}
